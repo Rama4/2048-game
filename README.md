@@ -4,6 +4,7 @@ To know more about this game , check this link: https://en.wikipedia.org/wiki/20
 
 The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048.
 To play the game, make sure you have java installed in your device.
+
 Steps to play:
 
       1. compile the java file
